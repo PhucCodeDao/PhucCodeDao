@@ -3,11 +3,11 @@
   <img src="https://img.shields.io/badge/Hello%2C%20PhucCodeDao-000000?style=for-the-badge&logo=starship&logoColor=white" alt="Header" />
 
   <h1>🌌 Welcome to my universe!</h1>
-  <h3>Full-Stack Developer | Tech Enthusiast | Open to Collaboration</h3>
+  <h3>Full-Stack Developer | Backend Developer</h3>
   
   <br>
   <p>
-    <img src="https://komarev.com/ghpvc/?username=cuong-sadboi&color=F700FF" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=PhucCodeDao&color=F700FF" alt="Profile Views" />
   </p>
   
 </div>
@@ -62,7 +62,7 @@
 ### 🔧 My Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,java,php,go,ts,kotlin,html,css,js,bootstrap,tailwind,django,dotnet,nextjs,nestjs,mysql,sqlite,git,github,docker&perline=8" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,html,css,js,bootstrap,dotnet,sqlite,git,github,docker&perline=8" />
   <br><br>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
@@ -81,7 +81,7 @@
 
 ### 🐍 Fun Fact: Commit Snake
 <div align="center">
-  <img src="https://github.com/cuong-sadboi/cuong-sadboi/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/PhucCodeDao/PhucCodeDao/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 <div align="center">
