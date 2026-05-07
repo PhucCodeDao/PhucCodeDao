@@ -81,7 +81,7 @@
 
 ### 🐍 Fun Fact: Commit Snake
 <div align="center">
-  <img src="https://github.com/PhucCodeDao/PhucCodeDao/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/PhucCodeDao/PhucCodeDao/blob/output/github-contribution-grid-snake.svg?v=2" alt="snake animation" />
 </div>
 
 <div align="center">
